@@ -225,15 +225,25 @@ Ajusta las reglas según tus requerimientos de acceso (por roles o colecciones e
 8. Estructura del Proyecto
 
 lib/
+
 bloc/ – Gestión de estado (Bloc/Cubit)
+
 modelos/ – Modelos de datos
+
 pantallas/ – Interfaz y lógica de presentación
+
 auth/ – Login y registro
+
 empresa/ – Gestión de empresas
+
 conductor/ – Registro y pagos
+
 servicios/ – Módulos de servicios, viajes y comprobantes
+
 home/ – Panel principal
+
 repos/ – Repositorios de datos (Firebase)
+
 main.dart – Punto de entrada de la app
 
 9. Ejecución del Proyecto
