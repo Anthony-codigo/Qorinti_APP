@@ -262,7 +262,7 @@ Rol	Integrante
 
 Scrum Manager:	Marko Alexander Naveda Samamé
 
-Desarrollador: Principal	Anthony Martin Chavez Zegarra
+Desarrollador Principal: Anthony Martin Chavez Zegarra
 
 Institución: Universidad Privada San Juan Bautista
 
