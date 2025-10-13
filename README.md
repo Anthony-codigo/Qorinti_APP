@@ -257,11 +257,17 @@ flutter run -d chrome
 Para entornos de producción, se recomienda compilar con variables --dart-define para la clave de Google y Firebase configurados por entorno.
 
 10. Créditos del Proyecto
+
 Rol	Integrante
+
 Scrum Manager	Marko Alexander Naveda Samamé
+
 Desarrollador Principal	Anthony Martin Chavez Zegarra
+
 Institución	Universidad Privada San Juan Bautista
-Proyecto académico	Aplicación móvil para optimizar el proceso de gestión de transporte en la empresa Transportes Qorinti S.A.C.
+
+royecto académico	Aplicación móvil para optimizar el proceso de gestión de transporte en la empresa Transportes Qorinti S.A.C.
+
 11. Licencia
 
 Este proyecto fue desarrollado con fines académicos y empresariales para Transportes Qorinti S.A.C.
