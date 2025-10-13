@@ -121,6 +121,7 @@ y que en android/build.gradle esté incluido:
 classpath 'com.google.gms:google-services:4.4.2'
 
 4. Configuración de la API de Google Maps
+
 a) Crear clave de API
 
 Entra en Google Cloud Console
