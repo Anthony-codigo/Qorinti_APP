@@ -1,0 +1,65 @@
+name: app_qorinti
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter 
+
+  #Firebase 
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.0.2
+  firebase_storage: ^13.0.2
+  firebase_app_check: ^0.4.1
+  rxdart: ^0.27.7
+
+  #Google y autenticación
+  google_sign_in: ^7.2.0
+
+  # HTTP y utilidades
+  http: ^1.2.2
+  dio: ^5.7.0
+  url_launcher: ^6.3.1
+  path_provider: ^2.1.4
+  open_filex: ^4.4.0
+  file_picker: ^10.3.3
+  permission_handler: ^12.0.1
+  image_picker: ^1.1.2
+  share_plus: ^10.0.0
+
+  # State management y utilidades
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.5
+  intl: ^0.20.2
+
+  # Google Maps & Location
+  google_maps_flutter: ^2.6.0
+  geolocator_platform_interface: ^4.2.3
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+  flutter_google_places_sdk: ^0.4.0
+  google_api_headers: ^4.5.5
+  
+  # Íconos Cupertino
+  cupertino_icons: ^1.0.8
+
+  pdf: ^3.11.0
+  printing: ^5.13.4
+  cached_network_image: ^3.3.1
+  excel: ^4.0.2 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
