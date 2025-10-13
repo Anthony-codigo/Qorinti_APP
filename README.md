@@ -177,6 +177,9 @@ ofertas	Ofertas de conductores por servicio
 pagos_comision	Registro y validación del 5 % de comisión
 comprobantes_qorinti	Comprobantes emitidos por comisión
 calificaciones	Valoraciones entre clientes y conductores
+
+NOTA: Para usar un usuario administrador lo que se debe hacer es ingresar primero con cualquier usuario ya sea google o correo electronico y dentro de la colección manualmente cambiarle el rol a "SUPERADMIN" y luego cuando intente ingresar de nuevo con ese usuario le llevara al home de administrador para realizar todas las funciones de gestión de permisos o autorizaciones como pagos o empresas, etc. 
+
 6. Índices requeridos
 
 Para evitar errores de consultas compuestas en Firestore, crea los siguientes índices desde la pestaña Firestore → Índices:
