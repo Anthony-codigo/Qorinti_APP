@@ -260,13 +260,13 @@ Para entornos de producción, se recomienda compilar con variables --dart-define
 
 Rol	Integrante
 
-Scrum Manager	Marko Alexander Naveda Samamé
+Scrum Manager:	Marko Alexander Naveda Samamé
 
-Desarrollador Principal	Anthony Martin Chavez Zegarra
+Desarrollador: Principal	Anthony Martin Chavez Zegarra
 
-Institución	Universidad Privada San Juan Bautista
+Institución: Universidad Privada San Juan Bautista
 
-royecto académico	Aplicación móvil para optimizar el proceso de gestión de transporte en la empresa Transportes Qorinti S.A.C.
+Proyecto académico:	Aplicación móvil para optimizar el proceso de gestión de transporte en la empresa Transportes Qorinti S.A.C.
 
 11. Licencia
 
