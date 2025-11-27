@@ -258,17 +258,9 @@ Para entornos de producción, se recomienda compilar con variables --dart-define
 
 10. Créditos del Proyecto
 
-Rol	Integrante
-
-Scrum Manager:	Marko Alexander Naveda Samamé
-
-Desarrollador Principal: Anthony Martin Chavez Zegarra
-
-Institución: Universidad Privada San Juan Bautista
-
-Proyecto académico:	Aplicación móvil para optimizar el proceso de gestión de transporte en la empresa Transportes Qorinti S.A.C.
-
+Desarrollador: Anthony Martin Chavez Zegarra
 11. Licencia
+
 
 Este proyecto fue desarrollado con fines académicos y empresariales para Transportes Qorinti S.A.C.
 Queda prohibida la distribución con fines comerciales sin autorización previa del autor.
